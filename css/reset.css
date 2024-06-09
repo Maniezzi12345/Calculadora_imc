@@ -1,0 +1,26 @@
+/* Redefine todos os estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  /* Redefine estilos específicos de elementos */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+  }
+  
+  ul, ol {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+  }
+  
